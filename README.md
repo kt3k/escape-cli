@@ -1,4 +1,4 @@
-# escape-cli
+# escape-cli v1.0.0
 
 > `escape` as cli
 
