@@ -1,6 +1,6 @@
 {
   "name": "escape-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "`escape-cli` command escapes the stdin and outputs the result to stdout.",
   "main": "index.js",
   "bin": "./main.js",

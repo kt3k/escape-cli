@@ -1,4 +1,4 @@
-# escape-cli v1.0.1
+# escape-cli v1.0.2
 
 [![CircleCI](https://circleci.com/gh/kt3k/escape-cli.svg?style=svg)](https://circleci.com/gh/kt3k/escape-cli)
 
