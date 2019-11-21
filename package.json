@@ -1,0 +1,23 @@
+{
+  "name": "escape-cli",
+  "version": "1.0.0",
+  "description": "`escape-cli` command escapes the stdin and outputs the result to stdout.",
+  "main": "index.js",
+  "bin": "./main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kt3k/escape-cli.git"
+  },
+  "author": "Yoshiya Hinosawa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kt3k/escape-cli/issues"
+  },
+  "homepage": "https://github.com/kt3k/escape-cli#readme",
+  "devDependencies": {
+    "kocha": "^1.9.1"
+  }
+}
